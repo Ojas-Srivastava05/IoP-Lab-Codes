@@ -9,4 +9,5 @@ void main()
     printf("Enter you Other Allowances ");
     scanf("%d",&oa);
     printf("Your GROSS SALARY is =%d",bs+hra+oa);
+    printf("RAM RAM BHAI");
 }
