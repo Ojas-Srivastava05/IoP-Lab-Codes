@@ -1,0 +1,1 @@
+cd "c:\Users\sriva\OneDrive\Desktop\IoP Lab Codes\LAB8\" ; if ($?) { gcc LoduLalit.c -o LoduLalit } ; if ($?) { .\LoduLalit }
